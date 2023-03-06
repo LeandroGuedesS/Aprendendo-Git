@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #000;
+}
+
+#center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+ul {
+  list-style: none;
+  display: inline-block;
+}
+
+ul li {
+  width: 30px;
+  height: 30px;
+  margin: 7px 0.5px;
+}
+
+ul li.one {
+  background-color: #000049;
+}
+ul li.two {
+  background-color: #000049;
+}
+ul li.different1 {
+  background-color: #00006e;
+}
+ul li.three {
+  background-color: #000049;
+}
+ul li.different2 {
+  background-color: #000096;
+}
+ul li.four {
+  background-color: #000049;
+}
+ul li.different3 {
+  background-color: #0000c4;
+}
+ul li.five {
+  background-color: #3f118a;
+}
+ul li.six {
+  background-color: #380058;
+}
+ul li.different4 {
+  background-color: #8000ca;
+}
+ul li.seven {
+  background-color: #380058;
+}
+ul li.different5 {
+  background-color: #62009b;
+}
+ul li.eight {
+  background-color: #380058;
+}
+ul li.different6 {
+  background-color: #4e007a;
+}
+ul li.nine {
+  background-color: #380058;
+}
